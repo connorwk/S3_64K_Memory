@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name S3_64K_Memory)(type Legacy)(uri ${KIPRJMOD}/S3_64K_Memory.lib)(options "")(descr ""))
+)

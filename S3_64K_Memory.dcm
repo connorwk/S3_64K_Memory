@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP -30V
+D Power symbol creates a global label with name "-30V"
+K power-flag
+$ENDCMP
+#
+$CMP GAL16V8
+D Programmable Logic Array, DIP-20/SOIC-20/PLCC-20
+K GAL PLD 16V8
+$ENDCMP
+#
+#End Doc Library

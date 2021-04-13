@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name S3_64K_Memory)(type KiCad)(uri ${KIPRJMOD}/S3_64K_Memory.pretty)(options "")(descr ""))
+)
